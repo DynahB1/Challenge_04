@@ -7,3 +7,8 @@
 ### In this exercise I had the oppportunity to compare different funds to the S&P. i was also able to use code functions to find different statitical and market metrics.
 
 > Please do explore the codebase I used to analyze these portfolios.
+
+#*Module*
+
+[Data files](Starter_Code/Resources/whale_navs.csv)
+
