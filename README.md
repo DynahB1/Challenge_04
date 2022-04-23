@@ -8,7 +8,7 @@
 
 > Please do explore the codebase I used to analyze these portfolios.
 
-#*Module*
+# *Module*
 
 [Data files](Starter_Code/Resources/whale_navs.csv)
 
